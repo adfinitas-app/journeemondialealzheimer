@@ -1,0 +1,11 @@
+.idea
+.sass-cache
+node_modules
+.jshintrc
+.bowerrc
+Gruntfile.js
+app.dev.js
+desktop.ini
+*.swp
+.DS_Store
+app.scss
